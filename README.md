@@ -1,6 +1,6 @@
 # Liebertar
 
-**AI Integration Specialist**
+**AI Integration**
 
 ## Experience
 
