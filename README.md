@@ -30,8 +30,8 @@ AI Integration
 <!--END_SECTION:activity-->
 
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=liebertar&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" />
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=liebertar&layout=compact&theme=dark&hide_border=true&langs_count=3" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=liebertar&theme=dark&hide_border=true" />
+  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=liebertar&theme=dark" />
 </p>
 
 ---
