@@ -1,15 +1,14 @@
-# Liebertar
+# AI Integration
 
-AI Integration
-
----
+<br>
 
 ## Experience
 
 `Automotive`
-- Developed RAG applications for automotive consultation and data analysis
-- Built GDPR-compliant ML feature stores with temporal versioning
-- Led cross-border data integration across European automotive corporations
+- Built RAG applications for automotive consultation and technical documentation
+- Developed custom parsing and preprocessing modules for diverse document formats
+- Built data ingestion pipelines for multi-source automotive datasets
+- Integrated corporate data across multiple European countries under GDPR constraints
 
 `Cloud-Native AI`
 - Fine-tuned open-source LLMs for domain-specific reasoning
@@ -22,32 +21,28 @@ AI Integration
 - Developing multi-agent orchestration for financial automation workflows
 - Evaluating and automating RAG pipelines and agent evaluation frameworks
 
----
+<br>
 
-## Recent Activity
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
+## Activity
 
 <p align="center">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=liebertar&theme=dark&hide_border=true" />
-  <img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=liebertar&theme=dark" />
+  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=liebertar&theme=github-dark&hide_border=true&area=true" />
 </p>
 
----
+<br>
 
 ## Open Source
-
-Contributing to AI infrastructure projects focused on temporal knowledge graphs and RAG optimization.
 
 - Graphiti — Knowledge graph construction for AI agents
 - Serena — Semantic code retrieval and editing toolkit (MCP server)
 - Aristotle — Blockchain-based artwork platform (own project)
 
+<br>
+
 ## Research Interests
 
 Fine-tuning for domain adaptation · Human-in-the-loop agent design · Agent memory architectures · LLM observability and tracing
 
----
+<br>
 
 [Medium: @liebertar](https://medium.com/@liebertar)
