@@ -1,5 +1,15 @@
 # AI Integration
 
+## Open Source
+
+- Graphiti — Knowledge graph construction for AI agents
+- Serena — Semantic code retrieval and editing toolkit (MCP server)
+- Aristotle — Blockchain-based artwork platform (own project)
+
+## Research Interests
+
+Fine-tuning for domain adaptation · Human-in-the-loop agent design · Agent memory architectures · LLM observability and tracing
+
 <br>
 
 ## Experience
@@ -28,20 +38,6 @@
 <p align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=liebertar&theme=github-dark&hide_border=true&area=true" />
 </p>
-
-<br>
-
-## Open Source
-
-- Graphiti — Knowledge graph construction for AI agents
-- Serena — Semantic code retrieval and editing toolkit (MCP server)
-- Aristotle — Blockchain-based artwork platform (own project)
-
-<br>
-
-## Research Interests
-
-Fine-tuning for domain adaptation · Human-in-the-loop agent design · Agent memory architectures · LLM observability and tracing
 
 <br>
 
