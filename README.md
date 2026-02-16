@@ -2,7 +2,6 @@
 ## Research Interests
 
 Fine-tuning for domain adaptation · Human-in-the-loop agent design · Agent memory architectures · LLM observability and tracing
-[Medium: @liebertar](https://medium.com/@liebertar)
 
 ## Open Source
 
