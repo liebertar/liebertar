@@ -1,11 +1,4 @@
 # AI Integration
-
-## Open Source
-
-- Graphiti — Knowledge graph construction for AI agents
-- Serena — Semantic code retrieval and editing toolkit (MCP server)
-- Aristotle — Blockchain-based artwork platform (own project)
-
 <br>
 
 ## Experience
@@ -27,7 +20,15 @@
 - Developing multi-agent orchestration for financial automation workflows
 - Evaluating and automating RAG pipelines and agent evaluation frameworks
 
+<br>
 
+## Open Source
+
+- Graphiti — Knowledge graph construction for AI agents
+- Serena — Semantic code retrieval and editing toolkit (MCP server)
+- Aristotle — Blockchain-based artwork platform (own project)
+
+<br>
 
 ## Research Interests
 
