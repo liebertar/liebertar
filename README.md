@@ -1,4 +1,5 @@
 # AI Integration
+
 ## Open Source
 
 - Graphiti — Knowledge graph construction for AI agents
@@ -25,6 +26,7 @@
 - Designing LLM tracing and observatory pipelines connected to knowledge management systems
 - Developing multi-agent orchestration for financial automation workflows
 - Evaluating and automating RAG pipelines and agent evaluation frameworks
+
 
 
 ## Research Interests
