@@ -26,12 +26,11 @@
 - Developing multi-agent orchestration for financial automation workflows
 - Evaluating and automating RAG pipelines and agent evaluation frameworks
 
-[Medium: @liebertar](https://medium.com/@liebertar)
-
 
 ## Research Interests
 
 Fine-tuning for domain adaptation · Human-in-the-loop agent design · Agent memory architectures · LLM observability and tracing
+[Medium: @liebertar](https://medium.com/@liebertar)
 
 <br>
 
