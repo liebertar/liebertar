@@ -1,8 +1,4 @@
 # AI Integration
-## Research Interests
-
-Fine-tuning for domain adaptation · Human-in-the-loop agent design · Agent memory architectures · LLM observability and tracing
-
 ## Open Source
 
 - Graphiti — Knowledge graph construction for AI agents
@@ -29,6 +25,13 @@ Fine-tuning for domain adaptation · Human-in-the-loop agent design · Agent mem
 - Designing LLM tracing and observatory pipelines connected to knowledge management systems
 - Developing multi-agent orchestration for financial automation workflows
 - Evaluating and automating RAG pipelines and agent evaluation frameworks
+
+[Medium: @liebertar](https://medium.com/@liebertar)
+
+
+## Research Interests
+
+Fine-tuning for domain adaptation · Human-in-the-loop agent design · Agent memory architectures · LLM observability and tracing
 
 <br>
 
